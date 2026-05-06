@@ -3,7 +3,7 @@
 
 
 
-<h5 align="center">👩🏻‍🎓 PhD-trained physicist with a strong computational background transitioning into Data Science</h5>  
+<h5 align="center">👩🏻‍🎓 PhD-trained physicist with a strong computational background in neuroscience transitioning into Data Science</h5>  
 <h5 align="center">👩🏻‍💻 Former Postdoctoral Researcher applying modeling, statistics, and machine learning to complex problems</h5>   
 <h5 align="center">📊 Experienced in statistical analysis, machine learning, and predictive modeling using real-world data</h5>   
 <h5 align="center">🧠 Skilled in translating complex data into actionable insights and decision-support tools</h5>   
